@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\bin\Debug\net7.0\AppSolucion.exe
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\bin\Debug\net7.0\AppSolucion.deps.json
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\bin\Debug\net7.0\AppSolucion.runtimeconfig.json
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\bin\Debug\net7.0\AppSolucion.dll
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\bin\Debug\net7.0\AppSolucion.pdb
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\obj\Debug\net7.0\AppSolucion.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\obj\Debug\net7.0\AppSolucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\obj\Debug\net7.0\AppSolucion.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\obj\Debug\net7.0\AppSolucion.AssemblyInfo.cs
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\obj\Debug\net7.0\AppSolucion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\obj\Debug\net7.0\AppSolucion.dll
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\obj\Debug\net7.0\refint\AppSolucion.dll
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\obj\Debug\net7.0\AppSolucion.pdb
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\obj\Debug\net7.0\AppSolucion.genruntimeconfig.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\DVD\AppConsole\obj\Debug\net7.0\ref\AppSolucion.dll
