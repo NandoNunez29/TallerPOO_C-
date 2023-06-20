@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\bin\Debug\net7.0\AppConsole.exe
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\bin\Debug\net7.0\AppConsole.deps.json
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\bin\Debug\net7.0\AppConsole.runtimeconfig.json
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\bin\Debug\net7.0\AppConsole.dll
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\bin\Debug\net7.0\AppConsole.pdb
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\obj\Debug\net7.0\AppConsole.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\obj\Debug\net7.0\AppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\obj\Debug\net7.0\AppConsole.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\obj\Debug\net7.0\AppConsole.AssemblyInfo.cs
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\obj\Debug\net7.0\AppConsole.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\obj\Debug\net7.0\AppConsole.dll
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\obj\Debug\net7.0\refint\AppConsole.dll
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\obj\Debug\net7.0\AppConsole.pdb
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\obj\Debug\net7.0\AppConsole.genruntimeconfig.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\Electrodomestico\AppConsole\obj\Debug\net7.0\ref\AppConsole.dll

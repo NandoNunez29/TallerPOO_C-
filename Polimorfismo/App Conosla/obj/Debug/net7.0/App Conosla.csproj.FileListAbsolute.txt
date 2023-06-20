@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\bin\Debug\net7.0\App Conosla.exe
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\bin\Debug\net7.0\App Conosla.deps.json
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\bin\Debug\net7.0\App Conosla.runtimeconfig.json
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\bin\Debug\net7.0\App Conosla.dll
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\bin\Debug\net7.0\App Conosla.pdb
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\obj\Debug\net7.0\App Conosla.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\obj\Debug\net7.0\App Conosla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\obj\Debug\net7.0\App Conosla.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\obj\Debug\net7.0\App Conosla.AssemblyInfo.cs
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\obj\Debug\net7.0\App Conosla.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\obj\Debug\net7.0\App Conosla.dll
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\obj\Debug\net7.0\refint\App Conosla.dll
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\obj\Debug\net7.0\App Conosla.pdb
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\obj\Debug\net7.0\App Conosla.genruntimeconfig.cache
+C:\Users\HP\Desktop\DevZero\TallerPOO\Polimorfismo\App Conosla\obj\Debug\net7.0\ref\App Conosla.dll
